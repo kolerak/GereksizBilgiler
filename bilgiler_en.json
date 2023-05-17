@@ -1,0 +1,632 @@
+[
+    {
+        "id": 1,
+        "bilgi": "The shortest reigning monarch in history was Lady Jane Grey, who ruled England for just 9 days in 1553.",
+        "language": "en",
+        "kaynakadi": "History Extra",
+        "kaynak": "https://www.historyextra.com/period/tudor/lady-jane-grey-facts-who-was-how-did-die-why-nine-day-queen/"
+    },
+    {
+        "id": 2,
+        "bilgi": "The shortest war in history was between Britain and Zanzibar on August 27, 1896. Zanzibar surrendered after just 38 minutes.",
+        "language": "en",
+        "kaynakadi": "Guinness World Records",
+        "kaynak": "https://www.guinnessworldrecords.com/world-records/shortest-war"
+    },
+    {
+        "id": 3,
+        "bilgi": "The longest hiccups on record lasted for 68 years.",
+        "language": "en",
+        "kaynakadi": "Guinness World Records",
+        "kaynak": "https://www.guinnessworldrecords.com/world-records/longest-attack-of-hiccups"
+    },
+    {
+        "id": 4,
+        "bilgi": "Cats can make over 100 different sounds, while dogs can only make about 10.",
+        "language": "en",
+        "kaynakadi": "Live Science",
+        "kaynak": "https://www.livescience.com/34471-cat-sounds.html"
+    },
+    {
+        "id": 5,
+        "bilgi": "The shortest commercial flight in the world is from Westray to Papa Westray in Scotland. The flight lasts just 57 seconds.",
+        "language": "en",
+        "kaynakadi": "Loganair",
+        "kaynak": "https://www.loganair.co.uk/about-us/our-story/worlds-shortest-flight/"
+    },
+    {
+        "id": 6,
+        "bilgi": "The world's largest grand piano was built by a 15-year-old in New Zealand. It is a little over 18 feet long and has 85 keys - 3 short of the standard 88.",
+        "language": "en",
+        "kaynakadi": "Guinness World Records",
+        "kaynak": "https://www.guinnessworldrecords.com/world-records/largest-piano"
+    },
+    {
+        "id": 7,
+        "bilgi": "The world's smallest mammal is the bumblebee bat, which weighs less than a penny.",
+        "language": "en",
+        "kaynakadi": "National Geographic",
+        "kaynak": "https://www.nationalgeographic.com/animals/mammals/group/bats/"
+    },
+    {
+        "id": 8,
+        "bilgi": "The world's largest snowflake on record was 15 inches wide and 8 inches thick.",
+        "language": "en",
+        "kaynakadi": "Guinness World Records",
+        "kaynak": "https://www.guinnessworldrecords.com/world-records/largest-snowflake"
+    },
+    {
+        "id": 9,
+        "bilgi": "A cockroach can live for several weeks without its head.",
+        "language": "en",
+        "kaynakadi": "Entomology",
+        "kaynak": "https://entomology.ca.uky.edu/ef014"
+    },
+    {
+        "id": 10,
+        "bilgi": "The longest word in the English language, according to the Guinness Book of World Records, is pneumonoultramicroscopicsilicovolcanoconiosis.",
+        "language": "en",
+        "kaynakadi": "Guinness World Records",
+        "kaynak": "https://www.guinnessworldrecords.com/world-records/longest-word-in-the-english-language"
+    },
+    {
+        "id": 11,
+        "bilgi": "'Stewardesses' is the longest word that is typed with only the left hand.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 12,
+        "bilgi": "To escape the grip of a crocodile's jaws, push your thumbs into its eyeballs - it will let you go instantly.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 13,
+        "bilgi": "Reindeer like to eat bananas.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 14,
+        "bilgi": "No word in the English language rhymes with month, orange, silver and purple.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 15,
+        "bilgi": "The word \"samba\" means \"to rub navels together.\"",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 16,
+        "bilgi": "Mel Blanc (the voice of Bugs Bunny) was allergic to carrots.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 17,
+        "bilgi": "The electric chair was invented by a dentist.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 18,
+        "bilgi": "The very first bomb dropped by the Allies on Berlin during World War II Killed the only elephant in the Berlin Zoo.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 19,
+        "bilgi": "More people are killed annually by donkeys than airplane crashes.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 20,
+        "bilgi": "A 'jiffy' is a unit of time for 1/100th of a second.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 21,
+        "bilgi": "A whale's penis is called a dork.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 22,
+        "bilgi": "Because of the rotation of the earth, an object can be thrown farther if it is thrown west.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 23,
+        "bilgi": "The average person spends 6 months of their life sitting at red lights.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 24,
+        "bilgi": "In 1912 a law passed in Nebraska where drivers in the country at night were required to stop every 150 yards, send up a skyrocket, wait eight minutes for the road to clear before proceeding cautiously, all the while blowing their horn and shooting off flares.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 25,
+        "bilgi": "More Monopoly money is printed in a year, than real money throughout the world.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 26,
+        "bilgi": "Caesar salad has nothing to do with any of the Caesars. It was first concocted in a bar in Tijuana, Mexico, in the 1920's.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 27,
+        "bilgi": "One quarter of the bones in your body are in your feet.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 28,
+        "bilgi": "Crocodiles and alligators are surprisingly fast on land.  Although they are rapid, they are not agile.  So, if being chased by one, run in a zigzag line to lose him or her.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 29,
+        "bilgi": "Seattle\u00e2\u20ac\u2122s Fremont Bridge rises up and down more than any drawbridge in the world.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 30,
+        "bilgi": "Right-handed people live, on average; nine years longer than left handed people.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 31,
+        "bilgi": "Ten percent of the Russian government's income comes from the sale of vodka.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 32,
+        "bilgi": "In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 33,
+        "bilgi": "A giraffe can go without water longer than a camel.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 34,
+        "bilgi": "A person cannot taste food unless it is mixed with saliva. For example, if a strong-tasting substance like salt is placed on a dry tongue, the taste buds will not be able to taste it. As soon as a drop of saliva is added and the salt is dissolved, however, a definite taste sensation results. This is true for all foods.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 35,
+        "bilgi": "Nearly 80% of all animals on earth have six legs.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 36,
+        "bilgi": "In the marriage ceremony of the ancient Inca Indians of Peru, the couple was considered officially wed when they took off their sandals and handed them to each other.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 37,
+        "bilgi": "Ninety percent of all species that have become extinct have been birds.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 38,
+        "bilgi": "There is approximately one chicken for every human being in the world.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 39,
+        "bilgi": "Most collect calls are made on father's day.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 40,
+        "bilgi": "The first automobile race ever seen in the United States was held in Chicago in 1895. The track ran from Chicago to Evanston, Illinois. The winner was J. Frank Duryea, whose average speed was 71/2 miles per hour.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 41,
+        "bilgi": "Each of us generates about 3.5 pounds of rubbish a day, most of it paper.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 42,
+        "bilgi": "Women manage the money and pay the bills in  75% of all Americans households.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 43,
+        "bilgi": "A rainbow can be seen only in the morning or late afternoon. It can occur only when the sun is 40 degrees or less above the horizon.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 44,
+        "bilgi": "It has NEVER rained in Calama, a town in the Atacama Desert of Chile.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 45,
+        "bilgi": "It costs more to buy a new car today in the United States than it cost Christopher Columbus to equip and undertake three voyages to and from the New World.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 46,
+        "bilgi": "The plastic things on the end of shoelaces are called aglets.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 47,
+        "bilgi": "An eighteenth-century German named Matthew Birchinger, known as \"the little man of Nuremberg,\" played four musical instruments including the bagpipes, was an expert calligrapher, and was the most famous stage magician of his day. He performed tricks with the cup and balls that have never been explained. Yet Birchinger had no hands, legs, or thighs, and was less than 29 inches tall.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 48,
+        "bilgi": "Daylight Saving Time is not observed in most of the state of Arizona and parts of Indiana.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 49,
+        "bilgi": "Ants closely resemble human manners:  When they wake, they stretch & appear to yawn in a human manner before taking up the tasks of the day.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 50,
+        "bilgi": "Bees have 5 eyes. There are 3 small eyes on the top of a bee's head and 2 larger ones in front.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 51,
+        "bilgi": "111,111,111 x 111,111,111 = 12,345,678,987,654,321",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 52,
+        "bilgi": "One-fourth of the world's population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 53,
+        "bilgi": "Butterflies taste with their hind feet.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 54,
+        "bilgi": "Only female mosquito\u00e2\u20ac\u2122s' bite and most are attracted to the color blue twice as much as to any other color.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 55,
+        "bilgi": "If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 56,
+        "bilgi": "It is illegal to hunt camels in the state of Arizona.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 57,
+        "bilgi": "In eighteenth-century English gambling dens, there was an employee whose only job was to swallow the dice if there was a police raid.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 58,
+        "bilgi": "There are no clocks in Las Vegas gambling casinos.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 59,
+        "bilgi": "The human tongue tastes bitter things with the taste buds toward the back. Salty and pungent flavors are tasted in the middle of the tongue, sweet flavors at the tip!",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 60,
+        "bilgi": "The first product to have a bar code was Wrigley\u00e2\u20ac\u2122s gum. [link]",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 61,
+        "bilgi": "When you sneeze, air and particles travel through the nostrils at speeds over100 mph.  During this time, all bodily functions stop, including your heart, contributing to the impossibility of keeping one's eyes open during a sneeze.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 62,
+        "bilgi": "Annual growth of WWW traffic is 314,000%",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 63,
+        "bilgi": "%60 of all people using the Internet, use it for pornography.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 64,
+        "bilgi": "In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 65,
+        "bilgi": "Sex burns 360 calories per hour. [link]",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 66,
+        "bilgi": "A raisin dropped in a glass of fresh champagne will bounce up and down continually from the bottom of the glass to the top.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 67,
+        "bilgi": "Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 68,
+        "bilgi": "The average lead pencil will draw a line 35 miles long or write approximately 50,000 English words.  More than 2 billion pencils are manufactured each year in the United States. If these were laid end to end they would circle the world nine times.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 69,
+        "bilgi": "The pop you hear when you crack your knuckles is actually a bubble of gas burning.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 70,
+        "bilgi": "A literal translation of a standard traffic sign in China: \"Give large space to the festive dog that makes sport in the roadway.\"",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 71,
+        "bilgi": "You burn more calories sleeping than you do watching TV.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 72,
+        "bilgi": "Larry Lewis ran the 100-yard dash in 17.8 seconds in 1969, thereby setting a new world's record for runners in the 100-years-or-older class. He was 101.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 73,
+        "bilgi": "In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 74,
+        "bilgi": "It's against the law to doze off under a hair dryer in Florida/against the law to slap an old friend on the back in Georgia/against the law to Play hopscotch on a Sunday in Missouri.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 75,
+        "bilgi": "Barbie's measurements, if she were life-size, would be 39-29-33.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 76,
+        "bilgi": "The human heart creates enough pressure to squirt blood 30ft.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 77,
+        "bilgi": "One third of all cancers are sun related.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 78,
+        "bilgi": "There are no rivers in Saudi Arabia.",
+        "language": "en",
+        "kaynakadi": "Canakkale Olay",
+        "source": "http://www.canakkaleolay.com/"
+    },
+    {
+        "id": 79,
+        "bilgi": "It has been estimated that humans use only 10% of their brain.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 80,
+        "bilgi": "Valentine Tapley from Pike County, Missouri  grew chin whiskers attaining a length of twelve feet six inches from 1860 until his death 1910, protesting Abraham Lincoln's election to the presidency.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 81,
+        "bilgi": "Most Egyptians died by the time they were 30 about 300 years ago,",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 82,
+        "bilgi": "For some time Frederic Chopin, the composer and pianist, wore a beard on only one side of his face, explaining: \"It does not matter, my audience sees only my right side.\"",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 83,
+        "bilgi": "1 in every 4 Americans has appeared someway or another on television.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 84,
+        "bilgi": "1 in 8 Americans has worked at a McDonalds restaurant.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 85,
+        "bilgi": "70% of all boats sold are used for fishing.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 86,
+        "bilgi": "Studies have shown that children laugh an average of 300 times/day and adults 17 times/day, making the average child more optimistic, curious, and creative than the adult.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 87,
+        "bilgi": "A pregnant goldfish is called a twit.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 88,
+        "bilgi": "The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes. [link]",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 89,
+        "bilgi": "You were born with 300 bones, but by the time you are an adult you will only have 206.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 90,
+        "bilgi": "If you go blind in one eye you only lose about one fifth of your vision but all your sense of depth.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    }
+]

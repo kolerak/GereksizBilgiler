@@ -1,0 +1,702 @@
+[
+    {
+        "id": 1,
+        "bilgi": "Tarihteki en kısa hükümdar, 1553'te İngiltere'yi sadece 9 gün boyunca yöneten Leydi Jane Gray'di.",
+        "language": "tr",
+        "kaynakadi": "History Extra",
+        "kaynak": "https://www.historyextra.com/period/tudor/lady-jane-grey-facts-who-was-how-did-die-why-nine-day-queen/"
+    },
+    {
+        "id": 2,
+        "bilgi": "Tarihin en kısa savaşı 27 Ağustos 1896'da İngiltere ile Zanzibar arasında yaşandı. Zanzibar sadece 38 dakika sonra teslim oldu.",
+        "language": "tr",
+        "kaynakadi": "Guinness World Records",
+        "kaynak": "https://www.guinnessworldrecords.com/world-records/shortest-war"
+    },
+    {
+        "id": 3,
+        "bilgi": "Kayıtlardaki en uzun hıçkırık 68 yıl sürdü.",
+        "language": "tr",
+        "kaynakadi": "Guinness World Records",
+        "kaynak": "https://www.guinnessworldrecords.com/world-records/longest-attack-of-hiccups"
+    },
+    {
+        "id": 4,
+        "bilgi": "Kediler 100'den fazla farklı ses çıkarabilirken, köpekler sadece 10 civarında ses çıkarabilir.",
+        "language": "tr",
+        "kaynakadi": "Live Science",
+        "kaynak": "https://www.livescience.com/34471-cat-sounds.html"
+    },
+    {
+        "id": 5,
+        "bilgi": "Dünyanın en kısa ticari uçuşu, Westray'den İskoçya'daki Papa Westray'e yapılır. Uçuş sadece 57 saniye sürer.",
+        "language": "tr",
+        "kaynakadi": "Loganair",
+        "kaynak": "https://www.loganair.co.uk/about-us/our-story/worlds-shortest-flight/"
+    },
+    {
+        "id": 6,
+        "bilgi": "Dünyanın en büyük kuyruklu piyanosu, Yeni Zelanda'da 15 yaşındaki bir çocuk tarafından yapıldı. 5.5 fitten biraz daha uzun ve 85 tuşa sahip. Yani standart olan 88'den 3 eksik.",
+        "language": "tr",
+        "kaynakadi": "Guinness World Records",
+        "kaynak": "https://www.guinnessworldrecords.com/world-records/largest-piano"
+    },
+    {
+        "id": 7,
+        "bilgi": "Dünyanın en küçük memelisi, bir kuruştan daha hafif olan yaban arısı yarasasıdır (Bumbelbee Bat).",
+        "language": "tr",
+        "kaynakadi": "National Geographic",
+        "kaynak": "https://www.nationalgeographic.com/animals/mammals/group/bats/"
+    },
+    {
+        "id": 8,
+        "bilgi": "Dünyanın kaydedilen en büyük kar tanesi 38 cm genişliğinde ve 20 cm kalınlığındaydı..",
+        "language": "tr",
+        "kaynakadi": "Guinness World Records",
+        "kaynak": "https://www.guinnessworldrecords.com/world-records/largest-snowflake"
+    },
+    {
+        "id": 9,
+        "bilgi": "Bir hamam böceği kafası olmadan birkaç hafta yaşayabilir.",
+        "language": "tr",
+        "kaynakadi": "Entomology",
+        "kaynak": "https://entomology.ca.uky.edu/ef014"
+    },
+    {
+        "id": 10,
+        "bilgi": "Guinness Rekorlar Kitabı'na göre İngilizce'deki en uzun kelime 'pneumonoultramicroscopicsilicovolcanoconiosis'tir.",
+        "language": "tr",
+        "kaynakadi": "Guinness World Records",
+        "kaynak": "https://www.guinnessworldrecords.com/world-records/longest-word-in-the-english-language"
+    },
+    {
+        "id": 11,
+        "bilgi": "İngilizce'de 'Stewardesses' kelimesi sadece sol elle yazılan en uzun kelimedir.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 12,
+        "bilgi": "Bir timsahın çenesinin pençesinden kurtulmak için başparmaklarınızı gözbebeklerine bastırın, hemen gitmenize izin verecektir.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 13,
+        "bilgi": "Ren geyikleri muz yemeyi sever.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 14,
+        "bilgi": "İngilizcede ay, turuncu, gümüş ve mor ile kafiyeli hiçbir kelime yoktur.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 15,
+        "bilgi": "'Samba' kelimesi tırnakları birbirine sürtmek anlamına gelir.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 16,
+        "bilgi": "Mel Blanc'ın (Bugs Bunny'yi seslendiren kişi) havuçlara alerjisi vardı.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 17,
+        "bilgi": "Elektrikli sandalye bir diş hekimi tarafından icat edilmiştir.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 18,
+        "bilgi": "Dünya Savaşı sırasında Müttefikler tarafından Berlin'e atılan ilk bomba Berlin Hayvanat Bahçesinde bulunan tek fili öldürdü.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 19,
+        "bilgi": "Her yıl eşekler, uçak kazalarından daha fazla insan ölüyor.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 20,
+        "bilgi": "Bir 'jiffy', saniyenin 1/100'ünü gösteren bir zaman birimidir.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 21,
+        "bilgi": "Sihirli Annem dizisindeki Taci, konuşuyor gibi görünsün diye krem peynir yedirilmiştir.",
+        "language": "tr",
+        "kaynakadi": "Onedio",
+        "source": "https://onedio.com/haber/bildikleri-en-gereksiz-bilgileri-paylasarak-durduk-yere-hafizamizda-yer-kaplayan-17-kisi-993294"
+    },
+    {
+        "id": 22,
+        "bilgi": "Dünyanın dönüşü nedeniyle, bir nesne batıya fırlatılırsa daha uzağa fırlatılabilir.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 23,
+        "bilgi": "Ortalama bir kişi hayatının 6 ayını kırmızı ışıklarda oturarak geçirir.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+        },
+        {
+        "id": 24,
+        "bilgi": "1912'de Nebraska'da bir yasa geçti ve gece ülkede sürücülerin her 150 metrede durması, bir havai fişek göndermesi, yolun temizlenmesini beklemesi için sekiz dakika beklemesi ve dikkatlice ilerlerken kornalarını çalmaları ve meşalelerini ateşlemeleri gerekiyordu.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+        },
+        {
+        "id": 25,
+        "bilgi": "Bir yılda Monopoly parasından dünya çapında gerçek paradan daha fazla basılır.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+        },
+        {
+        "id": 26,
+        "bilgi": "Sezar salatasının Sezarla hiçbir ilgisi yoktur. İlk kez 1920'lerde Meksika'nın Tijuana kentinde bir barda hazırlanmıştır.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+        },
+        {
+        "id": 27,
+        "bilgi": "Vücudunuzdaki kemiklerin dörtte biri ayaklarınızdadır.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+        },
+    {
+        "id": 28,
+        "bilgi": "Timsahlar karada şaşırtıcı derecede hızlıdır. Hızlı olmalarına rağmen çevik değillerdir. Yani, onlar tarafından kovalanıyorsanız, onu kaybetmek için zikzak çizerek koşun.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 29,
+        "bilgi": "Seattle'ın Fremont Köprüsü, dünyadaki herhangi bir asma köprüden daha fazla yükselir ve alçalır.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 30,
+        "bilgi": "Sağ elini kullananlar, sol elini kullananlardan ortalama dokuz yıl daha uzun yaşıyor.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 31,
+        "bilgi": "Rus hükümetinin gelirinin yüzde onu votka satışından geliyor.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 32,
+        "bilgi": "Amerika Birleşik Devletleri'nde, bir pound patates cipsi, bir pound patatesten iki yüz kat daha pahalı.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 33,
+        "bilgi": "Bir zürafa, bir deveden daha uzun süre susuz kalabilir.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 34,
+        "bilgi": "Tükürük ile karıştırılmadıkça insan yemeğin tadını alamaz. Örneğin, tuz gibi tadı keskin olan bir madde kuru dilin üzerine konursa, tat tomurcukları tadı alamayacaktır. Ancak bir damla tükürük eklendiğinde ve tuz çözüldüğünde, kesin bir tat hissi ortaya çıkar. Bu tüm gıdalar için geçerlidir.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 35,
+        "bilgi": "Yeryüzündeki tüm hayvanların yaklaşık %80'inin altı bacağı vardır.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 36,
+        "bilgi": "Peru'nun eski Inca Hintlilerinin evlilik töreninde, çift sandaletlerini çıkarıp birbirlerine verdiklerinde resmi olarak evli sayılırlardı.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+        },
+        {
+        "id": 37,
+        "bilgi": "Nesli tükenen tüm türlerin yüzde doksanı kuşlardır.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+        },
+        {
+        "id": 38,
+        "bilgi": "Dünyada her insan başına bir tavuk düşmektedir.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+        },
+        {
+        "id": 39,
+        "bilgi": "En çok toplu arama babalar gününde yapılır.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+        },
+    {
+        "id": 40,
+        "bilgi": "Amerika Birleşik Devletleri'nde görülen ilk otomobil yarışı 1895'te Chicago'da yapıldı. Pist Chicago'dan Illinois, Evanston'a kadar sürdü. Kazanan, ortalama hızı saatte 71/2 mil olan J. Frank Duryea oldu..",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 41,
+        "bilgi": "Her birimiz günde yaklaşık 1.5 kilo çöp üretiyoruz, çoğu kağıt.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 42,
+        "bilgi": "Kadınlar tüm Amerikan hanelerinin %75'inde parayı yönetiyor ve faturaları ödüyor.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 43,
+        "bilgi": "Gökkuşağı sadece sabah veya öğleden sonra görülebilir. Gökkuşağı sadece güneş ufuk çizgisinin 40 derece veya daha az üzerinde olduğunda meydana gelebilir.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+        },
+        {
+        "id": 44,
+        "bilgi": "Calama'da, Şili'nin Atacama Çölü'ndeki bir kasabada HİÇ yağmur yağmamıştır.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+        },
+        {
+        "id": 45,
+        "bilgi": "Bugün Amerika Birleşik Devletleri'nde yeni bir araba satın almak, Kristof Kolomb'un Yeni Dünya'ya üç kez gidip gelmek için donanımını hazırlamasına ve yolculuğuna katılmasına mal olmaktan daha pahalıdır.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+        },
+    {
+        "id": 46,
+        "bilgi": "Ayakkabı bağcıklarının ucundaki plastik şeylere aglet denir.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 47,
+        "bilgi": "Nürnberg'in küçük adamı olarak bilinen Matthew Birchinger adlı bir on sekizinci yüzyıl Almanı, gayda dahil dört müzik aleti çalıyordu, uzman bir hattattı ve zamanının en ünlü sahne sihirbazıydı. Kupa ve toplarla hiç anlatılmamış numaralar yaptı. Yine de Birchinger'ın elleri, bacakları veya kalçaları yoktu ve 74 santimden kısaydı.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 48,
+        "bilgi": "Yaz Saati Uygulaması, Arizona eyaletinin çoğunda ve Indiana eyaletinin bazı bölgelerinde uygulanmaz.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 49,
+        "bilgi": "Karıncalar, insan davranışlarına çok benzer: Uyandıklarında, günün görevlerini üstlenmeden önce insan gibi esnerler.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 50,
+        "bilgi": "Arıların 5 gözü vardır. Arının başının üst kısmında 3 adet küçük, ön kısmında ise 2 adet büyük gözü vardır..",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 51,
+        "bilgi": "111,111,111 x 111,111,111 = 12,345,678,987,654,321",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 52,
+        "bilgi": "Dünya nüfusunun dörtte biri yılda 200 dolardan daha az bir gelirle yaşıyor. Doksan milyon insan yılda 75 dolardan az parayla hayatta kalmaya çalışıyor.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 53,
+        "bilgi": "Kelebekler arka ayaklarıyla tat alırlar.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 54,
+        "bilgi": "Sadece dişi sivrisinekler ısırır ve çoğu için mavi renk diğer tüm renklerden iki kat daha fazla çekicidir.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 55,
+        "bilgi": "Bir akrebin üzerine az miktarda likör dökülürse, akrep anında çıldırır ve kendini ölümüne sokar..",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 56,
+        "bilgi": "Arizona eyaletinde deve avlamak yasa dışıdır.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 57,
+        "bilgi": "18. yüzyıl İngiliz kumarhanelerinde, polis baskını olursa tek işi zar yutmak olan bir çalışan vardı.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 58,
+        "bilgi": "Las Vegas kumar kumarhanelerinde saat yoktur.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 59,
+        "bilgi": "İnsan dili, tat alma tomurcukları arkaya doğru olacak şekilde acı şeyleri tadar. Tuzlu ve keskin tatlar dilin ortasında, tatlı tatlar ise ucunda!",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 60,
+        "bilgi": "Barkodu olan ilk ürün Wrigley's sakızıydı.",
+        "language": "tr",
+        "kaynakadi": "ThoughtCo",
+        "source": "https://www.thoughtco.com/bar-codes-history-1991329"
+    },
+    {
+        "id": 61,
+        "bilgi": "Hapşırdığınızda, hava ve partiküller burun deliklerinden 160 km üzerindeki hızlarda geçer. Bu süre zarfında, kalbiniz de dahil olmak üzere tüm vücut fonksiyonları durur ve hapşırma sırasında kişinin gözlerini açık tutmasının imkansızlığına katkıda bulunur.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 62,
+        "bilgi": "'WWW' trafiğinin yıllık büyümesi %314.000'dir.",
+        "language": "en",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 63,
+        "bilgi": "Pijamalı hasta Yağız şoföre çabucak güvendi” cümlesinde alfabemizde bulunan tüm harfler yer alıyor.",
+        "language": "tr",
+        "kaynakadi": "Ceotudent",
+        "source": "https://ceotudent.com/gereksiz-bilgiler/"
+    },
+    {
+        "id": 64,
+        "bilgi": "Kıta isimlerinin hepsi “A” ile başlayıp “A” ile bitiyor.",
+        "language": "tr",
+        "kaynakadi": "Google Maps",
+        "source": "http://www.google.com/maps"
+    },
+    {
+        "id": 65,
+        "bilgi": "TEVFİK FİKRET adındaki ilk hece ile soyadındaki ilk hece birleştirildiğinde adı olan, TEV-FİK, adındaki son hece ile soyadındaki son hece birleştirildiğinde de soyadı olan FİKRET meydana geliyor.",
+        "language": "tr",
+        "kaynakadi": "Ceotudent",
+        "source": "https://ceotudent.com/gereksiz-bilgiler/"
+    },
+    {
+        "id": 66,
+        "bilgi": "Bir bardak taze şampanyaya düşen kuru üzüm, bardağın altından yukarısına doğru sürekli olarak yukarı ve aşağı sıçrar..",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 67,
+        "bilgi": "Kerevizin negatif kalorisi var! Bir parça kereviz yemek, kerevizin içerdiğinden daha fazla kalori yakar.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 68,
+        "bilgi": "Ortalama bir kurşun kalem 35 mil uzunluğunda bir çizgi çizecek veya yaklaşık 50.000 İngilizce kelime yazacaktır. Amerika Birleşik Devletleri'nde her yıl 2 milyardan fazla kurşun kalem üretilmektedir. Bunlar uç uca dizilmiş olsaydı, dünyayı dokuz kez çevrelerlerdi.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 69,
+        "bilgi": "Parmaklarınızı çıtlattığınızda duyduğunuz ses aslında yanan bir gaz baloncuğudur.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 70,
+        "bilgi": "Çin'de standart bir trafik işaretinin birebir çevirisi: Karayollarında spor yapan şenlik köpeğine geniş yer verin.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 71,
+        "bilgi": "Uyurken, TV izlerken harcadığınızdan daha fazla kalori yakarsınız.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 72,
+        "bilgi": "Larry Lewis, 1969'da 100 yarda koşusunu 17,8 saniyede koşarak 100 yaş ve üstü sınıftaki koşucular için yeni bir dünya rekoru kırdı. 101 yaşındaydı.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 73,
+        "bilgi": "Ortalama bir insan ömrü boyunca 2 yüzme havuzunu dolduracak kadar litre tükürük üretir.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 74,
+        "bilgi": "Missouri'de bir Pazar günü seksek oynamak için Georgia'da eski bir dostun sırtına tokat atmak yasalara aykırıdır.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 75,
+        "bilgi": "Barbie'nin ölçüleri, gerçek boyutunda olsaydı, 39-29-33 olurdu.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 76,
+        "bilgi": "İnsan kalbi 30ft kan fışkırtmak için yeterli basınç oluşturur.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 77,
+        "bilgi": "Tüm kanserlerin üçte biri güneşe bağlıdır.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 78,
+        "bilgi": "Suudi Arabistan’da hiç ırmak yoktur.",
+        "language": "tr",
+        "kaynakadi": "Canakkale Olay",
+        "source": "http://www.canakkaleolay.com/"
+    },
+    {
+        "id": 79,
+        "bilgi": "İnsanların beyninin sadece %10'unu kullandığı tahmin edilmektedir..",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 80,
+        "bilgi": "İnsan beyninin yüzde 80’i sudur.",
+        "language": "tr",
+        "kaynakadi": "Canakkale Olay",
+        "source": "http://www.canakkaleolay.com/"
+    },
+    {
+        "id": 81,
+        "bilgi": "Mısırlıların çoğu yaklaşık 300 yıl önce 30 yaşına geldiklerinde öldü.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 82,
+        "bilgi": "Besteci ve piyanist Frederic Chopin bir süre yüzünün sadece bir tarafında sakal bıraktı ve şöyle açıkladı: 'Önemli değil, dinleyicilerim sadece sağ tarafımı görüyor'",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 83,
+        "bilgi": "Her 4 Amerikalıdan 1'i bir şekilde televizyonda göründü.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 84,
+        "bilgi": "8 Amerikalıdan 1'i, bir McDonalds restoranında çalıştı.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 85,
+        "bilgi": "Satılan tüm teknelerin %70'i balıkçılık için kullanılıyor.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 86,
+        "bilgi": "Araştırmalar, çocukların günde ortalama 300 kez ve yetişkinlerin günde 17 kez güldüğünü ve ortalama bir çocuğu yetişkinlerden daha iyimser, meraklı ve yaratıcı yaptığını göstermiştir.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 87,
+        "bilgi": "Hamile bir japon balığına twit denir.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 88,
+        "bilgi": "Tarihin en kısa savaşı 1896'da Zanzibar ile İngiltere arasında yaşandı. Zanzibar 38 dakika sonra teslim oldu.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 90,
+        "bilgi": "300 kemikle doğdunuz, ancak yetişkin olduğunuzda sadece 206 kemiğiniz kalacak.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 91,
+        "bilgi": "Türkiye'de yerli deve yok ama her yıl düzenlenen deve güreşleri festivali var..",
+        "language": "tr",
+        "kaynakadi": "The Culture Trip",
+        "source": "https://theculturetrip.com/europe/turkey/articles/10-facts-about-turkey-you-probably-didnt-know/"
+    },
+    {
+        "id": 92,
+        "bilgi": "Noel Baba Türkiye'de doğdu.",
+        "language": "tr",
+        "kaynakadi": "The Culture Trip",
+        "source": "https://theculturetrip.com/europe/turkey/articles/10-facts-about-turkey-you-probably-didnt-know/"
+    },
+    {
+        "id": 93,
+        "bilgi": "Akdeniz'in ana deniz kaplumbağası yumurtlama plajlarından biri Türkiye'de.",
+        "language": "tr",
+        "kaynakadi": "The Culture Trip",
+        "source": "https://theculturetrip.com/europe/turkey/articles/10-facts-about-turkey-you-probably-didnt-know/"
+    },
+    {
+        "id": 94,
+        "bilgi": "Tünel, dünyanın en eski ikinci yer altı demiryoludur.",
+        "language": "tr",
+        "kaynakadi": "The Culture Trip",
+        "source": "https://theculturetrip.com/europe/turkey/articles/10-facts-about-turkey-you-probably-didnt-know/"
+    },
+    {
+        "id": 95,
+        "bilgi": "Türkiye laleyi dünyaya tanıtmıştır.",
+        "language": "tr",
+        "kaynakadi": "The Culture Trip",
+        "source": "https://theculturetrip.com/europe/turkey/articles/10-facts-about-turkey-you-probably-didnt-know/"
+    },
+    {
+        "id": 96,
+        "bilgi": "Türkiye en büyük fındık üreticisidir.",
+        "language": "tr",
+        "kaynakadi": "The Culture Trip",
+        "source": "https://theculturetrip.com/europe/turkey/articles/10-facts-about-turkey-you-probably-didnt-know/"
+    },
+    {
+        "id": 97,
+        "bilgi": "Tarım ilk defa, Türkiye'de başlamıştır.",
+        "language": "tr",
+        "kaynakadi": "The Culture Trip",
+        "source": "https://theculturetrip.com/europe/turkey/articles/10-facts-about-turkey-you-probably-didnt-know/"
+    },
+    {
+        "id": 98,
+        "bilgi": "Hristiyanlığın en eski kiliselerinden biri Türkiye'de dir.",
+        "language": "tr",
+        "kaynakadi": "The Culture Trip",
+        "source": "https://theculturetrip.com/europe/turkey/articles/10-facts-about-turkey-you-probably-didnt-know/"
+    },
+    {
+        "id": 99,
+        "bilgi": "Türkiye'de avcı-toplayıcı çağdan kalma bir tapınak bulunmaktadır.",
+        "language": "tr",
+        "kaynakadi": "The Culture Trip",
+        "source": "https://theculturetrip.com/europe/turkey/articles/10-facts-about-turkey-you-probably-didnt-know/"
+    },
+    {
+        "id": 100,
+        "bilgi": "Bir insan hayatı boyunca 2 yılını telefonda konuşarak harcıyor.",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    },
+    {
+        "id": 101,
+        "bilgi": "Dünyanın en hızlı büyüyen bitkisi bambu, 1 günde 90 santimetre kadar uzuyor..",
+        "language": "tr",
+        "kaynakadi": "Djtech",
+        "source": "http://www.djtech.net/"
+    }
+]
